@@ -1,12 +1,25 @@
 body {
-    background-color: lightblue;
+    background-color: navajowhite;
+    font-family: Verdana;
+    text-align: center;
 }
 
 h1 {
-    color: white;
-    text-align: center;
+    color: beige;
+    background-color: rgb(40, 110, 250);
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-radius: 25px;
 }
 
 p {
-    text-align: center;
+}
+
+a {
+    color: navajowhite;
+    background-color: rgb(40, 110, 250);
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
 }
