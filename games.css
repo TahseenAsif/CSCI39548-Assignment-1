@@ -17,13 +17,3 @@ p {
     margin-left: 100px;
     margin-right: 100px;
 }
-
-table, th, td{
-    border: 1px solid;
-    align-self: center;
-}
-
-table {
-    margin-left: auto;
-    margin-right: auto;
-}
