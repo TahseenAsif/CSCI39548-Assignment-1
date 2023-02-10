@@ -19,3 +19,11 @@ h1 {
     margin-right: 100px;
     border-radius: 25px;
 }
+
+a {
+    color: navajowhite;
+    background-color: rgb(40, 110, 250);
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
