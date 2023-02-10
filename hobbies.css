@@ -1,5 +1,11 @@
+html {
+    height: 100%;
+}
+
 body {
-    background-color: navajowhite;
+    height: 100%;
+    background-image: linear-gradient(cyan, rgb(40, 110, 250));
+    background-repeat: no-repeat;
     font-family: Verdana;
     text-align: center;
 }
