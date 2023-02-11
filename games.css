@@ -45,3 +45,11 @@ a {
     border-radius: 25px;
     margin: 20px;
 }
+
+button {
+    color: navajowhite;
+    background-color: rgb(102, 9, 131);
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
+}
