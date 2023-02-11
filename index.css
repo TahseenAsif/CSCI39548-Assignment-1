@@ -20,6 +20,16 @@ h1 {
     border-radius: 25px;
 }
 
+h3 {
+    color: beige;
+    background-color: rgb(40, 110, 250);
+    padding: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-radius: 25px;
+    font-weight: lighter;
+}
+
 p {
 }
 
